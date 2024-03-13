@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.2.1",
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "start": "nodemon .",
+    "build": "nodemon ."
+  },
+  "description": "dhineshkumar portfolio v2 server ",
+  "repository": "www.github.com/Dhinesh4668/dhineshkumar.git",
+  "author": "Dhineshkumar(Dhinesh4668)",
+  "private": true
+}
