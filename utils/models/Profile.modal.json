@@ -9,5 +9,16 @@
         "git && github",
         "gitlab",
         "docker"
-    ]
+    ],
+    "links": [
+        {
+            "linkedin": "linkedin",
+            "instagram": "insta",
+            "gitlab": "gitlab",
+            "mastadon": "mastadon",
+            "github": "github",
+            "discord": "discord"
+        }
+    ],
+    "resume": "resume"
 }

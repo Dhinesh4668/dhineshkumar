@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "nodemon .",
-    "build": "nodemon ."
+    "test": "echo \"error: no test specified\" && exit 1"
   },
   "description": "dhineshkumar portfolio v2 server ",
   "repository": "www.github.com/Dhinesh4668/dhineshkumar.git",
