@@ -1,11 +1,14 @@
 import React from 'react'
 import HomeScreen from './Screens/HomeScreen'
+import {Route, Routes, Link} from 'react-router-dom'
 
 const App = () =>{
   return(
-      <div>
-        <HomeScreen />
-      </div>
+     <React.Fragment>
+      <Routes>
+        <Route path='/' element={<HomeScreen />}/>
+      </Routes>
+     </React.Fragment>
   )
 }
 
